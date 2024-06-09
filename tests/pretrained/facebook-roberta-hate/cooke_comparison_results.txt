@@ -1,0 +1,10 @@
+- HateSpeechDetection.csv  
+```
+Number of Correct Sentiments: 2796
+Number of Incorrect Sentiments: 204
+Percentage of Incorrect Sentiment: 6.80%
+Count of false positives: 101
+Count of false negatives: 103
+Percentage of False Positives: 3.37%
+Percentage of False Negatives: 3.43%
+```

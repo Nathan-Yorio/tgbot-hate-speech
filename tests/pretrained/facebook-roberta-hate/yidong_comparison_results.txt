@@ -1,0 +1,8 @@
+Number of Correct Sentiments: 363759
+Number of Incorrect Sentiments: 87950
+Percentage of Incorrect Sentiment: 19.47%
+Count of false positives: 63555
+Count of false negatives: 24388
+Percentage of False Positives: 14.07%
+Percentage of False Negatives: 5.40%
+View which dict pairs are incorrect in: incorrect_pairs.json
